@@ -1,0 +1,4 @@
+module OpenCombineShim {
+    header "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineShim.build/OpenCombineShim-Swift.h"
+    requires objc
+}

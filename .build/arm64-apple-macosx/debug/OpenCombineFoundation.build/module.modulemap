@@ -1,0 +1,4 @@
+module OpenCombineFoundation {
+    header "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineFoundation.build/OpenCombineFoundation-Swift.h"
+    requires objc
+}

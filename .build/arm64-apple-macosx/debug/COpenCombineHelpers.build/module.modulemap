@@ -1,0 +1,4 @@
+module COpenCombineHelpers {
+    umbrella header "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/checkouts/OpenCombine/Sources/COpenCombineHelpers/include/COpenCombineHelpers.h"
+    export *
+}

@@ -1,0 +1,14 @@
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Data/Cloud/Request/RecipestRequest.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Data/Cloud/Response/ErrorResponse.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Data/Cloud/Response/RecipesResponse.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Domain/RecipeModel.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Base.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesCoordinator.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesInteractor.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesPresenter.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesProvider.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Network/NetworkManager.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Network/NetworkRequest.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Network/NetworkingError.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Session/SessionManager.swift
+/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/UseCase/RecipesUseCase.swift

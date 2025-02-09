@@ -1,0 +1,4 @@
+module OpenCombineDispatch {
+    header "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineDispatch.build/OpenCombineDispatch-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module Alamofire {
+    header "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire-Swift.h"
+    requires objc
+}

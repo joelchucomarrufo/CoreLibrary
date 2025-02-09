@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/master.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Data/Cloud/Request/RecipestRequest.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipestRequest.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipestRequest.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipestRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipestRequest.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Data/Cloud/Response/ErrorResponse.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/ErrorResponse.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/ErrorResponse.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/ErrorResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/ErrorResponse.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Data/Cloud/Response/RecipesResponse.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesResponse.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesResponse.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesResponse.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Domain/RecipeModel.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipeModel.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipeModel.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipeModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipeModel.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Base.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/Base.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/Base.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/Base~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/Base.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesCoordinator.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesCoordinator.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesCoordinator.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesCoordinator.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesInteractor.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesInteractor.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesInteractor.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesInteractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesInteractor.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesPresenter.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesPresenter.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesPresenter.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesPresenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesPresenter.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Feature/Recipes/RecipesProvider.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesProvider.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesProvider.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesProvider.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Network/NetworkManager.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkManager.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkManager.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkManager.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Network/NetworkRequest.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkRequest.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkRequest.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkRequest.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Network/NetworkingError.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkingError.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkingError.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/NetworkingError.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/Manager/Session/SessionManager.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/SessionManager.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/SessionManager.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/SessionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/SessionManager.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/CoreLibrary/UseCase/RecipesUseCase.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesUseCase.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesUseCase.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/RecipesUseCase.swiftdeps"
+  }
+}

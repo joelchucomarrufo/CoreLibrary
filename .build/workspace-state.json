@@ -1,0 +1,44 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "alamofire",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/Alamofire/Alamofire.git",
+          "name" : "Alamofire"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+            "version" : "5.10.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Alamofire"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "opencombine",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/OpenCombine/OpenCombine.git",
+          "name" : "OpenCombine"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "8576f0d579b27020beccbccc3ea6844f3ddfc2c2",
+            "version" : "0.14.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "OpenCombine"
+      }
+    ]
+  },
+  "version" : 6
+}

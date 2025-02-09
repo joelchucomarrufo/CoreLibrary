@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineShim.build/master.swiftdeps"
+  },
+  "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/checkouts/OpenCombine/Sources/OpenCombineShim/OpenCombineShim.swift": {
+    "dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineShim.build/OpenCombineShim.d",
+    "object": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineShim.build/OpenCombineShim.swift.o",
+    "swiftmodule": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineShim.build/OpenCombineShim~partial.swiftmodule",
+    "swift-dependencies": "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/OpenCombineShim.build/OpenCombineShim.swiftdeps"
+  }
+}

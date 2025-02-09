@@ -1,0 +1,4 @@
+module CoreLibrary {
+    header "/Users/jomar/Documents/GitHub/Yape/CoreLibrary/.build/arm64-apple-macosx/debug/CoreLibrary.build/CoreLibrary-Swift.h"
+    requires objc
+}
