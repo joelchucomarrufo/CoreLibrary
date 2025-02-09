@@ -10,12 +10,12 @@ import Foundation
 public struct RecipeModel: Identifiable, Equatable {
     
     public var id = UUID()
-    var title: String
-    var ingredientes: [String]
-    var preparacion: [String]
-    var image: String
-    var latitude: String
-    var longitude: String
+    public var title: String
+    public var ingredientes: [String]
+    public var preparacion: [String]
+    public var image: String
+    public var latitude: String
+    public var longitude: String
     
     public init() {
         self.title = ""
